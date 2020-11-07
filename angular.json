@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proyectoGYM"
+    }
+  },
+  "defaultProject": "proyectoGYM",
+  "cli": {
+    "analytics": "dca456e5-ecfd-48f7-aa60-541ab5233072"
+  }
 }
